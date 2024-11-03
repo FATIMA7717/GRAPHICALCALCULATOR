@@ -3,8 +3,10 @@
 # !pip install streamlit matplotlib numpy
 
 # Step 2: Import necessary libraries
+pip install streamlit
+
 import streamlit as st
-import numpy as np
+
 import matplotlib.pyplot as plt
 
 # Step 3: Create input boxes for two values and output area
