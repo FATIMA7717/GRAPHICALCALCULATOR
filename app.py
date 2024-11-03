@@ -3,7 +3,6 @@
 # !pip install streamlit matplotlib numpy
 
 # Step 2: Import necessary libraries
-pip install streamlit
 
 import streamlit as st
 
